@@ -1,12 +1,12 @@
-# Cinnamon AMD GPU Monitor
-An applet to monitor AMD GPU statistics
+# Cinnamon Intel GPU Monitor
+An applet to monitor Intel GPU statistics
 
 ![Screenshot](screenshot.png)
 
 ## Requirements
 
 ```bash
-sudo apt install radeontop
+sudo apt install intel-gpu-tools
 ```
 
 ## Usage
